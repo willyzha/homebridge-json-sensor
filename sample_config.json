@@ -1,0 +1,12 @@
+{
+    "accessories": [
+        {
+            "accessory": "JSONSensor",
+            "name": "Light Sensor",
+            "regex": "B0:19:C6:C5:AC:1E",
+            "update_interval": 1000,
+            "max_sensor_value": 100,
+            "min_sensor_value": 0 
+        }
+    ]
+}
